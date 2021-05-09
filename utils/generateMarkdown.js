@@ -46,13 +46,13 @@ function generateMarkdown(data) {
 
   
   # Table of Contents
-  - [description](# description)
-  - [installation](# installation)
-  - [usage](# usage)
-  - [contributing](# contributing)
-  - [tests](# tests)
-  - [questions](# questions)
-  - [username](# username)
+  - [description](#description)
+  - [installation](#installation)
+  - [usage](#usage)
+  - [contributing](#contributing)
+  - [tests](#tests)
+  - [questions](#questions)
+  - [username](#username)
       
   ## <a name=“#description”>Description:</a>
   ${data.description}
