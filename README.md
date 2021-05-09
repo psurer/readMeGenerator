@@ -23,6 +23,8 @@
 
   ## <a name="#usage">Usage:</a>
   node index.js
+
+  ![Video sample] (./assets/videos/video.mov)
   
   ## <a name="#license">Lincense</a>
   Application cover under Mozilla Public License 2.0 which can be found at
