@@ -1,34 +1,39 @@
 
   
-  # MD Generator
+  # Markdown Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   
   # Table of Contents
-  -[description](# Generates a MD file)
-  -[installation](# npm install)
-  -[usage](# GEnerate and MD file)
-  -[contributing](# fafi)
-  -[tests](# npm run tests)
-  -[questions](# no questions)
-  -[username](# psurer)
-  -[repository](# language-barrier)
+  - [description](#description)
+  - [installation](#installation)
+  - [usage](#usage)
+  - [contributing](#contributing)
+  - [tests](#tests)
+  - [questions](#questions)
+  - [username](#username)
       
-  ## description:
-  Generates a MD file
+  ## <a name=“#description”>Description:</a>
+  Generates MD files
       
-  ## installation:
-  npm install
-      
-  ## usage:
-  GEnerate and MD file
-  
-  ## contributing:
-  fafi
-  
-  ## test:
-  npm run tests
+  ## <a name="#installation">Installation:</a>
+  npm install</span>
+    
+  ## <a name="#test">Test:</a>
+  npm run test
 
-  ## username:
-  https://github.com/psurer
+  ## <a name="#usage">Usage:</a>
+  node index.js
+  
+  ## <a name="#license">Lincense</a>
+  Application cover under Mozilla Public License 2.0 which can be found at
+  https://www.mozilla.org/en-US/MPL/2.0/
 
-  ## repository:
-  https://github.com/psurer/language-barrier
+  ## <a name="#contributing">Contributing:</a>
+  Priscilla 
+
+  # Questions:
+
+  ### <a name="#username">username:</a> https://github.com/psurer
+
+  ### Contact me using:  test@icloud.com
+  
